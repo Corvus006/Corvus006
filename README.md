@@ -5,6 +5,8 @@
 [![Python User](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![ROS2 User](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
 [![Ubuntu User](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![CodinGame User](https://img.shields.io/badge/CodinGame-2F2F2F?style=for-the-badge&logo=codingame&logoColor=white)](https://www.codingame.com/profile/a26bcea967797d120077d021ba45219d4469855)
+
 
 
 ## About me
