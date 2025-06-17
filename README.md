@@ -37,7 +37,7 @@ I'm currently working on our quadruped robot **Idefix**, with the goal of gettin
 
 When I'm not working on robotics, I enjoy experimenting with various projects:
 
-- 💬 A small spam program written in **Java** – my first real personal project_ [AutoTyper](https://github.com/Corvus006/AutoTyper)
+- 💬 A small spam program written in **Java** – my first real personal project: [AutoTyper](https://github.com/Corvus006/AutoTyper)
 - 🎮 A mobile app for the currently hyped **Impostor game**, built using **Flutter**: [imposter_game](https://github.com/Corvus006/imposter_game)
 - 🖥️ A **Kubernetes-based server cluster** I built with friends ([Ilian](https://github.com/IliHanSoLow), [Felix](https://github.com/Scriptor25)) using repurposed school computers: [jiflabs.de](https://jiflabs.de/)
 
