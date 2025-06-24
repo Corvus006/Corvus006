@@ -53,4 +53,4 @@ When I'm not working on robotics, I enjoy experimenting with various projects:
 
 *Thanks for stopping by! Feel free to check out my projects.*
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Corvus006)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Corvus006&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
