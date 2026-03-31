@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-<picture>
+<!-- <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=corvus006&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -21,7 +21,7 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corvus006&show_icons=true" />
-</picture>
+</picture> -->
 
 I'm a student at the [Willibald-Gluck-Gymnasium](https://www.wgg-neumarkt.de/) in Germany and a member of its [Robotics Team](https://github.com/wggRobotic/), where I contribute to software development using **Python**, **C++**, and **ROS 2**.
 
@@ -52,5 +52,7 @@ When I'm not working on robotics, I enjoy experimenting with various projects:
 ---
 
 *Thanks for stopping by! Feel free to check out my projects.*
-
+<!--- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Corvus006&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+--->
+
